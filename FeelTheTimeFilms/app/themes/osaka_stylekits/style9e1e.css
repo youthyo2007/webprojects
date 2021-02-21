@@ -1,0 +1,15 @@
+/*
+Theme Name: Osaka
+Theme URI: https://flothemes.com/themes/osaka/
+Author: Flothemes
+Author URI: https://flothemes.com
+Description: Osaka offers a fresh, almost airy layout that will bring your digital voice to life. A modern, playful design, with delicate handwritten typography and overlapping elements, which find their balance and harmony through fine lines and soft color contrasts. Osaka is perfect for those who strive for more creative freedom for their online presence, and a deeper emotional connection with their followers.
+Version: 1.2
+License: GNU General Public License and Flothemes general license
+License URI: Licensing/README_License.txt
+Text Domain: flotheme
+Tags: Modern, playful design, creative, blogging, photography.
+*/
+.flo-instagram-type-b__nav, .flo-instagram-type-a__nav {
+display:flex;
+}

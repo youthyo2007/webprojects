@@ -1,0 +1,95 @@
+@font-face {
+  font-family: 'Mina Medium';
+  src: url('Mina%20Medium%20Regular.html'); /* IE9 Compat Modes */
+  src: url('Mina%20Medium%20Regulard41d.html?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Mina%20Medium%20Regular-2.html') format('woff'), /* Modern Browsers */
+       url('Mina%20Medium%20Regular-3.html')  format('truetype'), /* Safari, Android, iOS */
+       url('Mina%20Medium%20Regular-4.html#bdee84d32d278a8bd9ee4243e6744b70') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'Minion Pro';
+  src: url('MinionPro-Regular.html'); /* IE9 Compat Modes */
+  src: url('MinionPro-Regulard41d.html?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('MinionPro-Regular-2.html') format('woff'), /* Modern Browsers */
+       url('MinionPro-Regular-3.html')  format('truetype'), /* Safari, Android, iOS */
+       url('MinionPro-Regular-4.html#e14324dc900cd012f29ed0264e357058') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'Nunito Bold';
+  src: url('Nunito-Bold.html'); /* IE9 Compat Modes */
+  src: url('Nunito-Boldd41d.html?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Nunito-Bold-2.html') format('woff'), /* Modern Browsers */
+       url('Nunito-Bold-3.html')  format('truetype'), /* Safari, Android, iOS */
+       url('Nunito-Bold-4.html#13206543af044a8dd6c5d2919155f227') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  700;
+}
+
+@font-face {
+  font-family: 'Nunito Light';
+  src: url('Nunito-Light.html'); /* IE9 Compat Modes */
+  src: url('Nunito-Lightd41d.html?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Nunito-Light-2.html') format('woff'), /* Modern Browsers */
+       url('Nunito-Light-3.html')  format('truetype'), /* Safari, Android, iOS */
+       url('Nunito-Light-4.html#6060e9892e1bcd04164d1dc2bc1a71e3') format('svg'); /* Legacy iOS */
+  font-style:   normal;
+  font-weight:  200;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url('Nunito-Regular.html'); /* IE9 Compat Modes */
+  src: url('Nunito-Regulard41d.html?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Nunito-Regular-2.html') format('woff'), /* Modern Browsers */
+       url('Nunito-Regular-3.html')  format('truetype'), /* Safari, Android, iOS */
+       url('Nunito-Regular-4.html#a7478ee4cdf8e12fb97f06aca53773a3') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'Unna Bold';
+  src: url('Unna-Bold.html'); /* IE9 Compat Modes */
+  src: url('Unna-Boldd41d.html?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Unna-Bold-2.html') format('woff'), /* Modern Browsers */
+       url('Unna-Bold-3.html')  format('truetype'), /* Safari, Android, iOS */
+       url('Unna-Bold-4.html#50c8a46e306fae1e749eca8f75a71bfc') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  700;
+}
+
+@font-face {
+  font-family: 'Unna Italic';
+  src: url('Unna-Italic.html'); /* IE9 Compat Modes */
+  src: url('Unna-Italicd41d.html?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Unna-Italic-2.html') format('woff'), /* Modern Browsers */
+       url('Unna-Italic-3.html')  format('truetype'), /* Safari, Android, iOS */
+       url('Unna-Italic-4.html#b72385180eb3a910c45e4937ca57bb44') format('svg'); /* Legacy iOS */
+       
+  font-style:   italic;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'Unna';
+  src: url('Unna-Regular.html'); /* IE9 Compat Modes */
+  src: url('Unna-Regulard41d.html?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Unna-Regular-2.html') format('woff'), /* Modern Browsers */
+       url('Unna-Regular-3.html')  format('truetype'), /* Safari, Android, iOS */
+       url('Unna-Regular-4.html#aab3c688b141222b3d2fc68484bcf2de') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
